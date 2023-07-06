@@ -9,8 +9,6 @@ class Pocketlist extends ChangeNotifier {
     Pocket("Vom Eifelturm springen"),
     Pocket("1 kg Sand am Meer essen"),
     Pocket("Familie gründen"),
-    Pocket("Familie gründen"),
-    Pocket("Familie gründen"),
   ];
 
   List<Pocket> getPocketList() {

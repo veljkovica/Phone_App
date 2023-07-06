@@ -108,7 +108,7 @@ class _PocketlistPageState extends State<PocketlistPage> {
               if (direction == DismissDirection.startToEnd) {
                 kind.done = true;
                 _performRightSwipeAction(kind, pockets);
-                return false;
+                return true;
               } else {
                 bool delete = true;
                 final snackbarController = ScaffoldMessenger.of(context)

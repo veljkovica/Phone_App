@@ -1,6 +1,6 @@
 {
-    "name": "pocketlist",
-    "short_name": "pocketlist",
+    "name": "pocket_list",
+    "short_name": "pocket_list",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
